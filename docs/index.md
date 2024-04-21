@@ -1,8 +1,6 @@
-Blockchain Research
-====================
+# Blockchain Research
 
 ## Contents
-=========
 Ethereum Core Protocol
     * [The Big Picture (post-merge prove-of-stake Ethereum)](#overview)
     * [Execution Layer]()
@@ -35,3 +33,11 @@ Layer 2
         Arbitrum One
         OP Stack
     ZK-Rollup
+
+Valuation Model
+    TVL
+    Risk Weighted Valuation
+
+
+Risk Analysis
+    Quantum Attack 
