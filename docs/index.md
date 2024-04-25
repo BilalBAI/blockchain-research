@@ -6,8 +6,6 @@ We rely on primary sources to provide firsthand insights and spotlight valuable 
 
 # Ethereum
 
-## Introduction
-
 While the mainstream research approach typically centers on Bitcoin as the Layer 1 gateway to the digital asset realm, focusing predominantly on its status as the pioneering, market-leading blockchain, we adopt a different perspective. We advocate for Ethereum as the starting point, contending that a comprehensive understanding of Ethereum and its intricate ecosystem provides a nuanced insight into the contemporary landscape of digital assets.
 
 Unlike Bitcoin's minimalist protocol, Ethereum embodies a versatility that extends beyond mere currency functions. Ethereum serves as a platform for decentralized applications and smart contracts, offering a rich tapestry of possibilities for innovation and development. Its vibrant developer community constantly explores cutting-edge cryptographic and computer science technologies, pushing the boundaries of blockchain capabilities and inspiring other blockchain ecosystems.
