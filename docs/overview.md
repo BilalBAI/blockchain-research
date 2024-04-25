@@ -26,11 +26,6 @@ The yellowpaper is general enough and mathematical in nature and doesn't rely on
 * consensus layer (CL) 
 
 
-## Ethereum Ecosystem
-* Layer 2
-* Applications
-
-
 ## Reference
 * https://epf.wiki/#/eps/week1?id=prehistory-and-philosophy
 * https://bitcoin.org/bitcoin.pdf
