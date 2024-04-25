@@ -19,7 +19,7 @@ While Bitcoin remains a stalwart in the digital asset space, its simplicity and 
 
 ## Contents
 ### Ethereum Core Protocol
-* [The Big Picture](#overview.md)
+* [The Big Picture](overview)
 * [Execution Layer]()
     * Execution Specs and Execution Clients
     * Ethereum Virtual Machine (EVM) and State Transition
