@@ -22,8 +22,7 @@ The yellowpaper is general enough and mathematical in nature and doesn't rely on
 
 
 ## Protocol Implementations and Development
-* execution layer (EL)
-* consensus layer (CL) 
+On a high level, Ethereum is a P2P network consisting of multiple nodes. Each node has two clients, the execution and consensus client which are just software that implements the execution and consensus specs. When we zoom in, the execution and consensus clients talk to their peers via their own P2P network. So we may also perceive that Ethereum consists of an execution layer (EL) and a consensus layer (CL).
 
 
 ## Reference
